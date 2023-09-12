@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(193, 229, 255);
+}
+#header-nav{
+    background-color: aliceblue;
+    border-radius: 0;
+    border: 0;
+}
+#logo-img{
+    background: url() no-repeat;
+    width: 150px;
+    height: 150px;
+    margin: 10px 15px 10px 0;
+}
+.navbar-name{
+    padding-top: 25px;
+}
+.navbar-name h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.navbar-header li{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20px;
+    width: 100%;
+    padding: 1cm;
+}
+
+.navbar-header ul{
+  display: inline-flex;
+}
+.about h1{
+    text-align: center;
+}
